@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello Lunch!
-tagline: Supporting tagline
+tagline: Learning all the time...
 ---
 {% include JB/setup %}
 

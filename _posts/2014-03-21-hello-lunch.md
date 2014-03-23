@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello lunch!"
+tags: [coding]
 ---
 # Hello lunch!
 ## Or, how I learned to stop worrying and fear the dice.

@@ -8,8 +8,8 @@ pygments: true
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Daves site
-tagline: Daves Tagline
+title : "Hello lunch!"
+tagline: "Startups, software, music, and other difficult things."
 author :
   name : Dave Stagner
   email : dave@baqbeat.com
