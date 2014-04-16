@@ -4,9 +4,11 @@ title: Microsoft in the past tense
 tags: [ 'Microsoft', 'history', 'prophecy' ]
 ---
 ### Trying to protect two monopolies, Microsoft lost both.
-<img src="http://cstrips.bitstrips.com/909d32eb0b9eca3842e92fa261671d91.png" alt="THIS IS AN EX-PARROT!"/>
+<img src="assets/images/parrot.png" alt="THIS IS AN EX-PARROT!"/>
 
 Today, I refered to {{ 'Microsoft' | link_to: 'http://www.microsoft.com' }} in the past tense. I didn't even think consciously about it. I just did it. I don't even remember the exact sentence now. I just realize I had described Microsoft as if they no longer exist. 
+
+And they did it to themselves. 
 
 ### A sorry fate
 Of course, Microsoft isn't dead, not yet. I will declare it dead the day it is bought by some other company, to squeeze a few remaining bucks out of what's left of its monopolies and existing product line. At that point, any pretense of innovation will cease, because there are no turnaround artists that can turn Microsoft around. And I think it's just a matter of time before it's absorbed by another entity - either a giant like Google or Facebook or some yet-to-be industry giant we haven't heard of yet, or some sort of large specialized financial parasite holding company. Either way, being bought would be the true death of what was once the most valuable company in the world. 
@@ -24,3 +26,4 @@ Tablets and smart phones have been obvious convergence points since long before 
 
 The first successful tablet, then, wasn't a tablet at all. It was a phone, the Apple iPhone. This was in no way a viable platform for Office, and it was immune to Windows. But the iOS operating system that Apple developed served as the basis for the iPad. Apple provided consumers with a clear path and an existing body of software written for the iPhone, that could run on the iPad. Moreover, the iPad worked really well, at a good price point. The explosion of wireless networking made internet-driven media consumption available everywhere. The App Store made it easy for consumers to buy more software with just a few clicks, and provided an exciting new platform for developers. Shortly afterward, Google gave the world the Android operating system, offering the same core benefits as iOS with some tasteful differences, and open to all hardware manufacturers. The traditional PC builders could compete with Apple in this new market - but not with a Microsoft platform. 
 
+Microsoft didn't have a tablet platform. They didn't have an OS, and they didn't have Office for iOS or Android. 
