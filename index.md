@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello Lunch!
-tagline: Learning all the time...
+tagline: Confessions of a Living Room CEO
 ---
 {% include JB/setup %}
 
