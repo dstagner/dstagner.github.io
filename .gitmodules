@@ -1,0 +1,6 @@
+[submodule ".themes/calm-shallow-sea"]
+	path = .themes/calm-shallow-sea
+	url = https://github.com/alexharris/calm-shallow-sea
+[submodule ".themes/yinyang"]
+	path = .themes/yinyang
+	url = https://github.com/qingwang/octopress-theme-yinyang
