@@ -9,6 +9,8 @@ There is a fundamental flaw in our thinking about charter schools that keeps us 
 
 The misunderstanding I’m talking about is the idea that the intended value of charter schools is as test labs to develop new education techniques for broad adoption by non-charter public schools. The problem with this idea is the underlying assumption that there is One True Way to teach children, that is equally applicable to all children and all schools. But each child is unique, with unique talents, interests, cultural experiences, and challenges. Expecting a single teaching methodology to best represent all children’s needs is disrespectful to children, and flies in the face of reality.
 
+<!-- more -->
+
 ***
 
 ###The actual value of charter schools is diversity. 

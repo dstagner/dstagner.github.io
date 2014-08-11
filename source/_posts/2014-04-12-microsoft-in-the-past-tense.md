@@ -10,6 +10,8 @@ Today, I refered to {{ 'Microsoft' | link_to: 'http://www.microsoft.com' }} in t
 
 And they did it to themselves. 
 
+<!-- more -->
+
 ### A sorry fate
 Of course, Microsoft isn't dead, not yet. I will declare it dead the day it is bought by some other company, to squeeze a few remaining bucks out of what's left of its monopolies and existing product line. At that point, any pretense of innovation will cease, because there are no turnaround artists that can turn Microsoft around. And I think it's just a matter of time before it's absorbed by another entity - either a giant like Google or Facebook, or some yet-to-be industry giant we haven't heard of yet, or some sort of large financial parasite like Bain Capital. Either way, being bought will be the true death of what was once the most valuable company in the world. 
 
