@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Dragons in the Basement"
+date: 2014-08-13 18:04:39 -0500
+comments: true
+categories: ['Dragons in the Basement', 'travelogue']
+---
+
+### Day 1
+
+At this moment, I'm on a road trip from Minneapolis to Indianapolis with my friend John Kentner. We are going to GenCon, the largest gaming convention in the world, to work on [Dragons in the Basement](http://dragonsinthebasement.com), a documentary film about the history and cultural impact of roleplaying games. John is meeting with the producers of another documentary ([Dungeons & Dragons: a documentary](http://dndadoc.com)), reconnecting with people who were interviewed for his movie, and maybe shooting some new footage. Me? I'm his wingman. 
+
+<!-- more -->
+
+*Dragons in the Basement* started in 2000, when John partnered with Dave Arneson, one of the creators of Dungeons and Dragons, to make a documentary about the history of RPGs. Over the next two years, they shot extensive interview footage with key figures in the industry, including long interviews with Gary Gygax and Dave Arneson. A rough cut was edited together and screened for a number of people in the industry. For various reasons, the project was shelved, and it became something of an urban legend in gaming circles. Gary Gygax died in 2008. Then Dave Arneson passed away in 2009, and it seemed like the movie might never be released. 
+
+But legends don't die easily! Interest in the footage continued to grow, as did community interest in documenting Dungeons and Dragons, and RPGs in general. Many friends (including me) encouraged John to continue with the project. This summer, he finally committed himself to it, and *Dragons in the Basement* was reborn. 
+
+### Day 2
+
+It's thursday, the first day of GenCon. I don't have any particular need to be at GenCon today, so I dropped John off at the con, and I returned to the B&B where we're staying to work on [Congruence](http://congruence.io). I spent the afternoon playing some sort of virtual machine [Inception](http://en.wikipedia.org/wiki/Inception), trying to get Docker container apps running inside Vagrant inside VirtualBox on my Mac (yes, I have very nearly rational reasons for this). 
+
+Around 9:30, I picked John up. He'd had a good day, meeting useful people and paving the way for more footage to be shot, particularly around the rise of internet-based RPGs. I picked up some scotch at a liquor store on the way to the B&B, to celebrate whatever victories we have. 
+
+### Day 3
+
+Today, I actually came to GenCon myself! No gaming for me, though... I'm sitting with a computer, hacking away, greeting occasional friends as they pass by my spot in a hallway lounge. John's doing his thing. I'm meeting some friends from California for dinner, and going to a concert by my friend [Mikey Mason](http://www.mikeymason.com/), and hopefully talking to him afterward about including his music in the movie. His [*Best Game Ever*](http://mikeymason.bandcamp.com/track/best-game-ever) is like the *Stairway to Heaven* of gaming songs. 
+
+We spotted [Wil Wheaton](http://wilwheaton.net/) walking by earlier. As tempting as is was to go grab him and babble about what we're doing... I suspect we'll be seeing him tomorrow night at a screening for a clip from *Dungeons & Dragons: a documentary* tomorrow night, as he was instrumental in the success of their Kickstarter campaign. He'll know who we are soon enough. :)

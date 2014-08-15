@@ -3,7 +3,7 @@ layout: post
 title: Charter schools and diversity
 ---
 
-*(This post started life as an email response to a program on AM 950, a liberal talk radio station, which was talking about education and charter schools in the Twin Cities. The host, disappointingly, repeated incorrect conventional wisdom about charter schools, which his guest shot down as gracefully as she could. But further listening revealed to me a much deeper (and apolitical) flaw in our thinking about charter schools.)*
+>(This post started life as an email response to a program on AM 950, a liberal talk radio station, which was talking about education and charter schools in the Twin Cities. The host, disappointingly, repeated incorrect conventional wisdom about charter schools, which his guest shot down as gracefully as she could. But further listening revealed to me a much deeper (and apolitical) flaw in our thinking about charter schools.)
 
 There is a fundamental flaw in our thinking about charter schools that keeps us from clearly understanding their best role in our educational system. I’m not talking about the usual nonsense like charter schools are selective (they aren’t, by law, at least not here in Minnesota), or that they’re stealing from public schools (they ARE public schools), or that they’re corporate thieves (they’re passionate educators). No, this is a different and more subtle misunderstanding.
 
