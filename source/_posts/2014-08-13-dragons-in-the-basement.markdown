@@ -27,3 +27,11 @@ Around 9:30, I picked John up. He'd had a good day, meeting useful people and pa
 Today, I actually came to GenCon myself! No gaming for me, though... I'm sitting with a computer, hacking away, greeting occasional friends as they pass by my spot in a hallway lounge. John's doing his thing. I'm meeting some friends from California for dinner, and going to a concert by my friend [Mikey Mason](http://www.mikeymason.com/), and hopefully talking to him afterward about including his music in the movie. His [*Best Game Ever*](http://mikeymason.bandcamp.com/track/best-game-ever) is like the *Stairway to Heaven* of gaming songs. 
 
 We spotted [Wil Wheaton](http://wilwheaton.net/) walking by earlier. As tempting as is was to go grab him and babble about what we're doing... I suspect we'll be seeing him tomorrow night at a screening for a clip from *Dungeons & Dragons: a documentary* tomorrow night, as he was instrumental in the success of their Kickstarter campaign. He'll know who we are soon enough. :)
+
+### Day 4
+
+Saturday has been a big day for us! We went to the screening of a 10 minute clip from *D&D: a documentary*, that included an excerpt of the Dave Arneson footage from *Dragons in the Basement*, with proper credits. Afterward, they warmly introduced John and our project, and referred back to it several times during their Q&A. We met new friends like [Jon Peterson](http://www.unreason.com/), the author of the D&D history book [Playing at the World](http://www.amazon.com/gp/product/0615642047/ref=as_li_tf_il?ie=UTF8&camp=1789&creative=9325&creativeASIN=0615642047&linkCode=as2&tag=playattheworl-20), met up with old friends, and got lots of useful information and interest. 
+
+We are *incredibly* excited about *D&D: a documentary*! The preview was beautifully shot and constructed, offering a different but equally valuable perspective on the same subject. We can hardly wait to see the finished film! 
+
+Tomorrow morning, we're meeting again with Anthony and Cecily to talk about how we can help each other and our respective documentaries. But tonight, we are very tired and going to bed!
