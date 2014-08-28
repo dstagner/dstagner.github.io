@@ -9,7 +9,8 @@ single: true
       <div class="col-md-8 col-md-offset-2">
         <h1>{% if site.titlecase %}{{ page.title | titlecase }}{% else %}{{ page.title }}{% endif %}</h1>
         <div class="meta">
-          written {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
+          <!-- written {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %} -->
+          written {{ post.date }}
           {% include post/categories.html %}
         </div>
         {{ content }}
