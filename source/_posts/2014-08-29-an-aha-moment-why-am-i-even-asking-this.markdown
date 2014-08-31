@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "An AHA! moment - Why am I even asking this?"
-date: 2014-08-29 11:16:19 -0500
 comments: true
 categories: 
 ---
@@ -17,7 +16,7 @@ So, why *did* I have to ask the DBA? I see two major reasons for that. First, I 
 
 Second, even if I had access, would I be able to make heads or tails of it? I'm no Oracle expert. I can find my way around SQL pretty well, but pinning down whether or not *anything* changed in a schema with hundreds of tables? How would I do that? This, by the way, explains why the DBA gave me an incorrect answer as well. He didn't have a good point of comparison, either. If he didn't know about a change, he had no good way of tracing it. 
 
-The stock answer for this sort of thing, from the DevOps and traditional configuration management communities, is to just automate the crap out of everything. But frankly, that's a boil-the-ocean strategy in large corporations. It's not like I had the authority to order them to do that! And would I have access to their source code, or deployment logs? So a world where changes are done manually, by many different teams, is just plain reality for most software organizations. 
+The stock answer for this sort of thing, from the DevOps and traditional configuration management communities, is to just automate the crap out of everything. But frankly, that's a boil-the-ocean strategy in large corporations. It's not like I had the authority to order them to do that! And would I have access to their source code, or deployment logs? So a world where changes are done manually, by many different teams, is just plain reality for most software organizations. Hmmm. 
 
 So what's my answer? With [Congruence](http://congruence.io), it means just automatically detecting that *something* changed in the database, and putting notification for that change in a common system, alongside changes in the app servers, unix filesystems, firewalls, enterprise service busses, and all the other gazillion moving parts that make up a large modern application. Make it a drill-down so I can see not only that there was a change in configuration, but *what* changed. Index altered? Table dropped? Let's find out! With capability like this, I don't need to ask a DBA - I can just look it up. And I don't have to have access to the database, or understand how to use the tools to drill into it. Knowing what changed where is enough to get me started on solving the problem, by bringing in the people who do have the right access and knowledge. 
 
