@@ -2,6 +2,7 @@
 layout: post
 title: "Seven Habits of Highly Effective DevOps"
 date: 2014-08-10T15:29:29-05:00
+comments: true
 ---
 
 I presented this Ignite talk at [DevOpsDays Minneapolis 2014](http://devopsdays.org/events/2014-minneapolis/). It seems to have developed a life of its own on Slideshare! Here's the slides... 

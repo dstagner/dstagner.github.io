@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Startups as Oregon Trail
+comments: true
 ---
 
 <img src="assets/images/dysentery.jpg"/>

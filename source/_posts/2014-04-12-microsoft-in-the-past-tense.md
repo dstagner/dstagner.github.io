@@ -2,6 +2,7 @@
 layout: post
 title: Microsoft in the past tense
 tags: [ 'Microsoft', 'history', 'prophecy' ]
+comments: true
 ---
 ### Trying to protect two monopolies, Microsoft lost both.
 <img src="assets/images/parrot.png" alt="THIS IS AN EX-PARROT!"/>

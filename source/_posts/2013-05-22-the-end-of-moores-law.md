@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The End of Moore's Law, sort of
+comments: true
 ---
 
 Moore’s Law has been in force my entire life. When I first touched computers back in the early 1980s, 16k was typical memory and 300k was a huge floppy disk. Now, I have 8gb of RAM and 750gb of disk sitting in my lap – a million times the memory of those old TRS-80s, more raw computing power than even the greatest supercomputers of my childhood. CPU power and most other measures have grown equally.

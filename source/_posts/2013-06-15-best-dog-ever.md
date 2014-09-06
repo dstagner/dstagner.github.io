@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Best. Dog. Ever.
+comments: true
 ---
 <img src="assets/images/rubucac.jpg"/>
 

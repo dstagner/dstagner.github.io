@@ -26,8 +26,8 @@ email: dave@congruence.io
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
-permalink: /blog/:year/:month/:day/:title/
+root: # /
+permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
@@ -93,7 +93,7 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: davestagner
-disqus_show_comment_count: false
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-40292660-1

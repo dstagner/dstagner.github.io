@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What do you want?
+comments: true
 ---
 
 The story of the tv show Babylon 5 really begins when Mr. Morden starts asking the question, “What do you want?” In a station populated with ambassadors for various alien races, he asks every ambassador this question, until Ambassador Londo Mollari of the Centauri Republic finally satisfies him…

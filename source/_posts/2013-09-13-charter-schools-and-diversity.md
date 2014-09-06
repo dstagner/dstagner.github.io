@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Charter schools and diversity
+comments: true
 ---
 
 >(This post started life as an email response to a program on AM 950, a liberal talk radio station, which was talking about education and charter schools in the Twin Cities. The host, disappointingly, repeated incorrect conventional wisdom about charter schools, which his guest shot down as gracefully as she could. But further listening revealed to me a much deeper (and apolitical) flaw in our thinking about charter schools.)

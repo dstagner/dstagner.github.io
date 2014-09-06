@@ -2,6 +2,7 @@
 layout: post
 title: "Hello lunch!"
 tags: [coding]
+comments: true
 ---
 
 Back in high school, I was in a D&D group. We encountered a horse, the DM rolled the horse's reaction to us. Our druid spoke to the horse, and the

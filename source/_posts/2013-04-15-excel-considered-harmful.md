@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Excel considered harmful
+comments: true
 ---
 
 I’m coming to the conclusion that Microsoft Excel is the most toxic piece of software in the IT industry. Here’s a few reasons why…
