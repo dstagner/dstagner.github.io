@@ -6,6 +6,8 @@ categories:
 ---
 I started [Congruence](http://congruence.io) to scratch my own itch. After 20 years in the software industry, I had plenty of itches. But what pushed me from mere irritated grumbling to an actionable idea, the seed that would grow into a business? There were a bunch of "AHA!" moments. This is the story of one of them.
 
+<!-- more -->
+
 I pushed a build out to a test environment, and it failed. Hmm, what's wrong? After some digging in the logs, I found what looked to me like an app/schema mismatch. So I called up my friend the DBA to ask if the schema had changed, since I had neither the access nor the knowledge to determine that on my own. He said no, nothing had changed. 
 
 **What he didn't know was that the other DBA in the cubicle next to his had made a change.**
