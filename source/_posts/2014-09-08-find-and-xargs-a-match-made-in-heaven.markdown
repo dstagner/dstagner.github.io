@@ -10,6 +10,8 @@ Searching a Unix/Linux directory structure recursively can be baffling and ineff
 
 `find ${PATH} -type f | xargs grep ${PATTERN} 2>/dev/null`
 
+<!-- more -->
+
 ### Anatomy of a hack ###
 The first part of this is the `find` command. The first argument to find is always the directory path you want to search. The `-type f` modifier limits the results to files and filters out directories - no point in grepping them, right? The find command is a rich and powerful thing with a complex interface. Read up on the man page to learn things you can do with it, but be sure to experiment to make sure they work - find's behavior varies considerably from platform to platform. 
 
