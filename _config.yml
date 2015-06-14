@@ -1,0 +1,12 @@
+# Site settings
+title: Dave Stagner
+email: dave@congruence.io
+description: > 
+  Software, music, and other ideas. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://davestagner.com" # the base hostname & protocol for your site
+twitter_username: davestagner
+github_username:  dstagner
+
+# Build settings
+markdown: kramdown
