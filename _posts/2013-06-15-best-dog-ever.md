@@ -3,7 +3,7 @@ layout: post
 title: Best. Dog. Ever.
 comments: true
 ---
-<img src="assets/images/rubucac.jpg"/>
+![Rubucac]({{site.url}}/assets/images/rubucac.jpg)
 
 ### Rubucac, 2003-2013
 
@@ -17,7 +17,7 @@ One morning, four weeks ago, he wouldn’t eat breakfast. Instead, he settled in
 
 After a couple of weeks, though, it was clear that it wasn’t infection. His condition gradually worsened. He would have good days, then collapse again, then recover, then more collapse – and the collapses were becoming more frequent. We decided to keep him at home until he died of natural causes. One of the few saving graces of hemangiosarcoma is its efficiency. Dogs die of internal bleeding or heart attack well before the kind of pain that cancer can bring sets in. But last weekend, he suffered a terrible, near-fatal attack again, then a short recovery, then another attack. We decided it was time to have him put to sleep.
 
-<img src="assets/images/rubu-water.jpg"/>
+![Rubucac in the water]({{site.url}}/assets/images/rubu-water.jpg)
 
 We found a marvelous veterinarian, Dr. Karen Randall of [Solace Veterinary Hospice](http://solaceveterinaryhospice.com/). She specializes in end-of-life care for beloved pets, including at-home euthanasia. She came to our house this evening to help put Rubucac to sleep. She very patiently got to know him, and listened to our stories about him. When we were ready, she gave him a sedative, causing him to fall asleep in about ten minutes, giving us time to say our goodbyes. Then she gave him an overdose of barbituates, stopping his heart. She waited for our grieving, until we were ready to let him go completely. She then took him with her for cremation, and will return his ashes to us so they can be scattered in the yard that was his home for his entire life.
 
