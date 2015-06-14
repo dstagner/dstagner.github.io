@@ -4,7 +4,7 @@ title: Startups as Oregon Trail
 comments: true
 ---
 
-<img src="assets/images/dysentery.jpg"/>
+![]({{site.url}}/assets/images/dysentery.jpg)
 
 The Oregon Trail (the real-world entity, not the game) was a primary route for settling the Old West. Early trailblazers, from Lewis and Clark onward, found passages across the Rocky Mountains and other hazards. But as more and more traveled the route, it transitioned from being an unknown and dangerous task to a well-known and dangerous task.
 

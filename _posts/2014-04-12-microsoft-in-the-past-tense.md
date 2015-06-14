@@ -5,7 +5,7 @@ tags: [ 'Microsoft', 'history', 'prophecy' ]
 comments: true
 ---
 ### Trying to protect two monopolies, Microsoft lost both.
-<img src="assets/images/parrot.png" alt="THIS IS AN EX-PARROT!"/>
+![]({{site.url}}/assets/images/parrot.png)
 
 Today, I refered to {{ 'Microsoft' | link_to: 'http://www.microsoft.com' }} in the past tense. I didn't even think consciously about it. I just did it. I don't even remember the exact sentence now. I just realize I had described Microsoft as if they no longer exist. 
 
