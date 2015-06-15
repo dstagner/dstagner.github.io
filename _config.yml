@@ -11,6 +11,7 @@ github_username:  dstagner
 # Build settings
 markdown: kramdown
 
+paginate: 5
 
 # Disqus Comments
 disqus_short_name: davestagner
