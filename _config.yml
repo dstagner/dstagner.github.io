@@ -13,6 +13,8 @@ markdown: kramdown
 
 paginate: 5
 
+gems: [jekyll-paginate]
+
 # Disqus Comments
 disqus_short_name: davestagner
 disqus_show_comment_count: true
