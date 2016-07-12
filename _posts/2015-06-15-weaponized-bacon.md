@@ -3,7 +3,7 @@ layout: post
 title: Weaponized bacon!
 comments: true
 tags: ['foodie']
-published: false
+published: true
 ---
 
 This is a story of a recipe, and also of cultures coming together. 
