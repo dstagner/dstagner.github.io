@@ -8,7 +8,9 @@ published: true
 
 This is a story of a recipe, and also of cultures coming together. 
 
-At the [Convergence](http://convergence-con.org) science fiction convention, there is a room party called the House of Toast. For three nights, House of Toast provides toast with toppings to the thousands of hungry geeks swarming the convention. 
+At the [Convergence](http://convergence-con.org) science fiction convention, there is a room party called the House of Toast. For three nights, House of Toast provides toast with toppings to the thousands of hungry geeks swarming the convention. In 2015, the theme of the con was "Dystopia". The House of Toast went along with it, calling themselves "Dystoastia" that year. My daughter and I decided to make a variety of toppings for Dystoastia, based on the them. 
+
+One of them was Weaponized Bacon. 
 
 ### The recipe
 
@@ -28,3 +30,14 @@ The second bacon we tried was small ends of slab bacon, smoked in-house at [Fine
 
 And the winner? Finer Meat. It smelled better, tasted better, and looked better. The slab bacon, really meant for rendering fat, produced a clear, clean fat that tasted spectacular. It wasn't as smoky as the legendary Benton's, but it made up for it with a rich, porky goodness. 
 
+### Variations
+
+*Nuclear Bacon* - Weaponized bacon with chili peppers. We used a combination of chipotle and Chinese peppers. 
+
+*Breakfast Bacon* - Weaponized bacon with coffee. 
+
+### A meeting of cultures
+
+Bacon powder is a straightforward expression of the [_molecular gastronomy_](https://en.wikipedia.org/wiki/Molecular_gastronomy) movement in modern cuisine. Making powders from fats and maltodextrin originated in industrial foods (think of the cheese powder on a Cheeto). Science fiction has a grand tradition of applying hi-tech fantasy to foods. And love of bacon is so deep, it practically has its own fandom. 
+
+People were *excited*. Weaponized bacon was a hit! The name, the concept, and the audience all came together. People who would never visit an exotic or experimental restaurant were lined up to try it. It spoke to them. 
