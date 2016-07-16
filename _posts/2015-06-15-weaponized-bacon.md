@@ -34,7 +34,7 @@ And the winner? Finer Meat. It smelled better, tasted better, and looked better.
 
 *Nuclear Bacon* - Weaponized bacon with chili peppers. We used a combination of chipotle and Chinese peppers. 
 
-*Breakfast Bacon* - Weaponized bacon with coffee. 
+*Turbo Bacon* - Weaponized bacon with coffee. 
 
 ### A meeting of cultures
 
